@@ -432,6 +432,7 @@ body > footer .copyrights {
 }
 
 
+/* SUBPAGES */
 .pt-wrapper {
   position: relative;
   width: 100%;
@@ -514,7 +515,6 @@ body > footer .copyrights {
   overflow: auto;
 }
 
-/*No Animation Support Message Style*/
 .pt-message {
   display: none;
   position: absolute;
@@ -561,9 +561,9 @@ body > footer .copyrights {
 }
 /* /Page changer */
 
-/* ============================================================================= 
-5. Site header (Panel with logo & navigation)
-============================================================================= */
+
+/* HEADER WITH LOGO */
+
 .header {
   position: fixed;
   width: 100%;

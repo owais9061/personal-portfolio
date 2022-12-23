@@ -269,7 +269,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #AA00FF;
+  color: #63108d;
 }
 
 
@@ -309,7 +309,7 @@ button, input[type="button"], input[type="submit"] {
 .btn-primary:hover,
 .btn-primary:focus,
 button, input[type="button"], input[type="submit"] {
-  background-color: #AA00FF;
+  background-color: #63108d;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
@@ -409,7 +409,7 @@ body > footer .copyrights {
 
 .preloader-spinner:after {
   border-color: transparent;
-  border-top-color: #AA00FF;
+  border-top-color: #63108d;
   -webkit-animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
   animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
 }
@@ -617,7 +617,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #AA00FF;
+  color: #63108d;
 }
 
 .header.sticked .site-title {
@@ -692,7 +692,7 @@ body > footer .copyrights {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #AA00FF;
+  background-color: #63108d;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -752,7 +752,7 @@ body > footer .copyrights {
 }
 
 .block-title h3 span {
-  color: #AA00FF;
+  color: #63108d;
 }
 
 .custom-page-content .block {
@@ -773,7 +773,7 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #AA00FF;
+  background-color: #63108d;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -797,7 +797,7 @@ body > footer .copyrights {
 /* SUB PAGES ------> Home PAGE */
 .start-page-content .page-header {
   position: relative;
-  background-color: #AA00FF;
+  background-color: #63108d;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
@@ -956,7 +956,7 @@ body > footer .copyrights {
   height: 12px;
   top: 20px;
   left: -29px;
-  border: 2px solid #AA00FF;
+  border: 2px solid #63108d;
   z-index: 2;
 }
 
@@ -964,7 +964,7 @@ body > footer .copyrights {
   content: '';
   display: inline-block;
   position: absolute;
-  background-color: #AA00FF;
+  background-color: #63108d;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -984,7 +984,7 @@ body > footer .copyrights {
   display: inline-block;
   font-size: 12px;
   line-height: 1.2em;
-  color: #AA00FF;
+  color: #63108d;
   margin-bottom: 8px;
 }
 
@@ -1024,8 +1024,12 @@ body > footer .copyrights {
   width: 100%;
 }
 
+.skills-row {
+  margin-left: 1rem;
+}
+
 .skill-percentage {
-  background-color: #AA00FF;
+  background-color: #571579;
   height: 10px;
   padding: 0;
 }
@@ -1127,7 +1131,7 @@ body > footer .copyrights {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
-  background-color: #AA00FF;
+  background-color: #63108d;
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -1334,7 +1338,7 @@ body > footer .copyrights {
   content: '';
   height: 2px;
   margin-top: 0;
-  background-color: #AA00FF;
+  background-color: #63108d;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1449,7 +1453,7 @@ body > footer .copyrights {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #AA00FF;
+  background-color: #63108d;
   opacity: 0.8;
   z-index: 0;
 }
@@ -1571,7 +1575,7 @@ body > footer .copyrights {
 
 .blog-card .post-date span {
   display: block;
-  color: #AA00FF;
+  color: #63108d;
   line-height: 1;
   font-size: 12px;
   margin: 0;
@@ -1709,7 +1713,7 @@ body > footer .copyrights {
 .contact-info-block i {
   position: relative;
   font-size: 18px;
-  color: #AA00FF;
+  color: #63108d;
   text-align: center;
   line-height: 36px;
 }
@@ -1758,7 +1762,7 @@ body > footer .copyrights {
 .testimonials.owl-carousel .owl-nav .owl-prev:hover,
 .testimonials.owl-carousel .owl-nav .owl-next:hover {
   color: #fff;
-  background-color: #AA00FF;
+  background-color: #63108d;
 }
 
 .testimonials.owl-carousel .owl-nav .owl-prev:before,
@@ -1925,7 +1929,7 @@ body > footer .copyrights {
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  color: #AA00FF;
+  color: #63108d;
 }
 
 .ajax-page-nav > div.nav-item a i {
@@ -1970,7 +1974,7 @@ body > footer .copyrights {
 }
 
 .project-general-info .fa {
-  color: #AA00FF;
+  color: #63108d;
   margin-right: 5px;
 }
 
@@ -2216,7 +2220,7 @@ blockquote footer, blockquote small, blockquote .small {
     top: 50px;
     z-index: 1001;
     overflow: auto;
-    background-color: #AA00FF;
+    background-color: #63108d;
     -webkit-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
@@ -2251,7 +2255,7 @@ blockquote footer, blockquote small, blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #AA00FF;
+    background-color: #63108d;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
